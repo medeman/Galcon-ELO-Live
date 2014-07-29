@@ -57,8 +57,4 @@ class Preprocessor {
 	}
 }
 
-$pp = new Preprocessor();
-
-print_r($pp->getData());
-
 ?>
